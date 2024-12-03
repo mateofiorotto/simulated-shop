@@ -33,3 +33,8 @@ Esta es una tienda simulada. Incluye lo siguiente:
 - **CSS**
 - **Bootstrap**
 - **JavaScript**
+
+---
+
+## 🌐 Test Online
+You can test the project online here: [carrito-p1-neto-fiorotto.netlify.app](https://carrito-p1-neto-fiorotto.netlify.app)
