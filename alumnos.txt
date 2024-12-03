@@ -1,0 +1,10 @@
+----- DATOS DE ALUMNOS -----
+
+ALUMNOS      | Fiorotto Mateo, Neto Matias.
+CUATRIMESTRE | Segundo cuatrimestre (primero de 2024)
+COMISIÓN     | DWT2AV
+TURNO        | Tarde
+MATERIA      | Programación I
+PROFESOR     | Cristian Ariel Corbalán
+
+LINK PAGINA: https://carrito-p1-neto-fiorotto.netlify.app/

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="utf-8"/>
+    <title>Programación I | FINAL | MATEO FIOROTTO | MATIAS NETO | Carrito</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no"/>
+    <link rel="shortcut icon" href="favicon.ico"/>
+    <link rel="stylesheet" href="estilo.css"/>
+</head>
+<body>
+<header>
+    <h1>Programación I | FINAL | MATEO FIOROTTO | MATIAS NETO | Carrito</h1>
+</header>
+<main>
+    <div id="minicarrito">
+        <div>
+            <p>Filtrar por: </p>
+                <ul id="filtros">
+                    <li><a href="#" data-categoria="Tarjeta Gráfica">Tarjetas Gráficas</a></li>
+                    <li><a href="#" data-categoria="Smartphone">Celulares</a></li>
+                    <li><a href="#" data-categoria="Auriculares de Estudio">Auriculares</a></li>
+                </ul>
+            <button id="btn-reiniciar-filtros">Reiniciar filtros</button>
+        </div>
+        <div>
+            <p><span id="items-agregados">0</span> ítem(s) agregados</p>
+            <button id="btn-ver-detalle-carrito">Ver carrito</button>
+        </div>  
+    </div>
+    <h2>Productos</h2>
+    <div id="productos"></div>
+</main>
+    <script src="final.js" defer></script>
+</body>
+</html>
